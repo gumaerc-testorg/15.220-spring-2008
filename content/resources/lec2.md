@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture slides on national and firm-level advantage.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-220-global-strategy-and-organization-spring-2008/063c771129f9f14076e534981df67c7a_lec2.pdf
+file: /media/courses/15-220-global-strategy-and-organization-spring-2008/063c771129f9f14076e534981df67c7a_lec2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec2.pdf
 uid: 063c7711-29f9-f140-76e5-34981df67c7a
