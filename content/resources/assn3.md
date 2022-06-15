@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout containing learning objectives and discussion questions on local
   strength to global advantage.
-file: /media/courses/15-220-global-strategy-and-organization-spring-2008/2f609eda6629198653d4eaa51a33c288_assn3.pdf
+file: /courses/15-220-global-strategy-and-organization-spring-2008/2f609eda6629198653d4eaa51a33c288_assn3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: assn3.pdf
 uid: 2f609eda-6629-1986-53d4-eaa51a33c288
 ---
+Handout containing learning objectives and discussion questions on local strength to global advantage.
+

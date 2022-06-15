@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout containing learning objectives and discussion questions on the
   changing global landscape.
-file: /media/courses/15-220-global-strategy-and-organization-spring-2008/7c06b9ce5220a8e9308b02805dd8e73b_assn1.pdf
+file: /courses/15-220-global-strategy-and-organization-spring-2008/7c06b9ce5220a8e9308b02805dd8e73b_assn1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: assn1.pdf
 uid: 7c06b9ce-5220-a8e9-308b-02805dd8e73b
 ---
+Handout containing learning objectives and discussion questions on the changing global landscape.
+

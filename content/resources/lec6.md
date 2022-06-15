@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on expanding from new regions.
-file: /media/courses/15-220-global-strategy-and-organization-spring-2008/b260411e31de5bb916085ee51e3c2711_lec6.pdf
+file: /courses/15-220-global-strategy-and-organization-spring-2008/b260411e31de5bb916085ee51e3c2711_lec6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lec6.pdf
 uid: b260411e-31de-5bb9-1608-5ee51e3c2711
 ---
+Lecture slides on expanding from new regions.
+
