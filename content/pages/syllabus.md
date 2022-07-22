@@ -1,16 +1,18 @@
 ---
 content_type: page
+description: The syllabus section provides an overview of the course and information
+  on readings, requirements, and grading.
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 81dd3581-f3d7-0927-672c-d368d26e2940
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week for 6 weeks, 1.5 hours / session
 
-Course Overview
----------------
+## Course Overview
 
 Companies today confront an increasing array of choices regarding markets, locations for key activities, outsourcing and ownership modes, and organization and processes for managing across borders. This course provides students with the conceptual tools necessary to understand and work effectively in today's interconnected world by developing strategic perspectives that link this changing environment, the state of the global industry, and the capabilities and position of the firm.
 
@@ -18,8 +20,7 @@ The goal of this subject is to provide the foundations for taking effective acti
 
 In addition to traditional case/class discussions, students working in groups will post blogs on at least four cases over the term and will make one group presentation in the context of an integrative "deep dive." Students will also individually submit two short papers applying frameworks presented in the class to an industry and a company of their choice.
 
-Readings
---------
+## Readings
 
 Readings include one book and a number of analytic articles and company case studies drawn from a variety of different industries (manufacturing and services) in North America, Europe, Latin America and Asia.
 
@@ -29,45 +30,23 @@ Ghemawat, Pankaj. _Redefining Global Strategy: Crossing Borders in a World Where
 
 In addition, a package of readings will include all articles and cases, and class notes, slides, and other resources related to the course will be posted on a course Web site. Please check this site regularly.
 
-Requirements
-------------
+## Requirements
 
 The requirements for the course and the contribution of each towards the final grade are:
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Written assignments
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 30%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Integrative "Deep Dive" presentation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 30%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 Class participation:
 
@@ -75,24 +54,16 @@ Individual participation and discussion (20%)
 
 Group postings to blog (20%)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 40%
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-  
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ### Individual Written Assignments
 
 Two short papers (maximum 4 pages double spaced, excluding figures and diagrams, 12 point font):
 
-1.  Assess changes in the global scope of your industry (or an industry of your choice) and the competitive positioning of your firm's home country (Due on Ses #4)
-2.  Assess the way your firm (or a firm of your choice) is organized internationally in order to exploit global (or regional) advantages yet remain responsive to local conditions (Due on Ses #10).
+1. Assess changes in the global scope of your industry (or an industry of your choice) and the competitive positioning of your firm's home country (Due on Session 4)
+2. Assess the way your firm (or a firm of your choice) is organized internationally in order to exploit global (or regional) advantages yet remain responsive to local conditions (Due on Session 10).
 
 ### Deep Dive Presentation
 
@@ -104,11 +75,11 @@ Working in groups of 4-5, you will be asked to view the situation from the persp
 
 The success of this subject depends on your active participation in class discussions. Prior preparation of the cases and assigned readings are essential as this background is presumed in the lectures and case discussions. Class participation will be judged in two parts:
 
-*   Individual participation and discussion (20%)
-*   Group postings to blog (20%)
+- Individual participation and discussion (20%)
+- Group postings to blog (20%)
 
 Those of you whose native language is not English and/or who may have difficulty speaking up in class are encouraged to meet with me to discuss how your participation in class can be ensured. The group case blogs can help in this respect, as they will provide a "hook" for your individual participation both in class and on line.
 
-A blog will be set up for the class to host out-of-class comments and discussions. Every student is expected to participate in a self-formed group of 4-5 (you should e-mail the membership of your group to the TA before Ses #2), and may participate as individuals as well. Each group will submit, no later than the evening (6 pm) on the day prior to the discussion, comments on at least four cases over the term, at least two of which should be during the first three weeks of class.
+A blog will be set up for the class to host out-of-class comments and discussions. Every student is expected to participate in a self-formed group of 4-5 (you should e-mail the membership of your group to the TA before Session 2), and may participate as individuals as well. Each group will submit, no later than the evening (6 pm) on the day prior to the discussion, comments on at least four cases over the term, at least two of which should be during the first three weeks of class.
 
 These contributions are expected to add value by focusing on an interesting aspect of the case (further analysis of developments, application of a specific framework or tool to one or more of the questions). Restatement of information available in the case does not add value. Please be concise. We are seeking Quality over Quantity. Individual contributions to the blog, which should build on the group postings and class discussion, will also be valued as part of individual class participation.

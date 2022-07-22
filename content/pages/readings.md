@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of readings and cases for the lecture
+  sessions.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9a161a05-32a1-dcde-0b1f-dafc5158c5dc
 ---
