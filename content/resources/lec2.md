@@ -5,6 +5,7 @@ file: /courses/15-220-global-strategy-and-organization-spring-2008/063c771129f9f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec2.pdf
 uid: 063c7711-29f9-f140-76e5-34981df67c7a
 ---
 Lecture slides on national and firm-level advantage.
-

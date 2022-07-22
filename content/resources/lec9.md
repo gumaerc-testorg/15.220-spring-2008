@@ -6,6 +6,7 @@ file: /courses/15-220-global-strategy-and-organization-spring-2008/20258f87f04f7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec9.pdf
 uid: 20258f87-f04f-7607-70cb-16f380e76610
 ---
 Lecture slides on sourcing human talent, integrating global manufacturing, and product development.
-

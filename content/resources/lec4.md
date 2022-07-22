@@ -5,6 +5,7 @@ file: /courses/15-220-global-strategy-and-organization-spring-2008/460f827cf2bf1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec4.pdf
 uid: 460f827c-f2bf-1f6f-80c8-5636f3cf49e8
 ---
 Lecture slides on building a global business model.
-

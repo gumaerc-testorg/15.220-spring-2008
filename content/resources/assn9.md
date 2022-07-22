@@ -6,6 +6,7 @@ file: /courses/15-220-global-strategy-and-organization-spring-2008/34728b4ca75d3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn9.pdf
 uid: 34728b4c-a75d-31fb-25b5-bc280ee3e7ec
 ---
 Handout containing learning objectives and discussion questions on integrating global manufacturing and product development.
-

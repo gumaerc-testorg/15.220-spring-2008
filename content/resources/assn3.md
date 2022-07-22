@@ -6,6 +6,7 @@ file: /courses/15-220-global-strategy-and-organization-spring-2008/2f609eda66291
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn3.pdf
 uid: 2f609eda-6629-1986-53d4-eaa51a33c288
 ---
 Handout containing learning objectives and discussion questions on local strength to global advantage.
-

@@ -6,6 +6,7 @@ file: /courses/15-220-global-strategy-and-organization-spring-2008/99d2c955a7fab
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec1.pdf
 uid: 99d2c955-a7fa-bd03-ac68-888a865eee62
 ---
 Lecture slides on global strategy and organization, and the changing global landscape.
-

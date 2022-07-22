@@ -6,6 +6,7 @@ file: /courses/15-220-global-strategy-and-organization-spring-2008/0e770a91c96b8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec8.pdf
 uid: 0e770a91-c96b-88dd-e61f-4e87e7e637ac
 ---
 Lecture slides on managing for global/regional integration and local responsiveness.
-

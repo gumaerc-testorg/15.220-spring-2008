@@ -6,6 +6,7 @@ file: /courses/15-220-global-strategy-and-organization-spring-2008/5a696d20407fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn10.pdf
 uid: 5a696d20-407f-a8b8-7e1a-d6f9a586e9f1
 ---
 Handout containing learning objectives and discussion questions on integrating global supply and marketing chains.
-

@@ -5,6 +5,7 @@ file: /courses/15-220-global-strategy-and-organization-spring-2008/747aeb277d86d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec10.pdf
 uid: 747aeb27-7d86-d04a-1e13-dc43531680e7
 ---
 Lecture slides on integrating global supply and marketing chains.
-

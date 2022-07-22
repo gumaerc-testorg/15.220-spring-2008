@@ -5,6 +5,7 @@ file: /courses/15-220-global-strategy-and-organization-spring-2008/b260411e31de5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec6.pdf
 uid: b260411e-31de-5bb9-1608-5ee51e3c2711
 ---
 Lecture slides on expanding from new regions.
-

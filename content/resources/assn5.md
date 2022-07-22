@@ -6,6 +6,7 @@ file: /courses/15-220-global-strategy-and-organization-spring-2008/2e3bf7e84cd2c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn5.pdf
 uid: 2e3bf7e8-4cd2-cf2e-8a17-fdaea93d1ff9
 ---
 Handout containing learning objectives and discussion questions on cross-border arbitrage and outsourcing.
-
