@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides on sourcing human talent, integrating global manufacturing,
   and product development.
 file: /courses/15-220-global-strategy-and-organization-spring-2008/20258f87f04f760770cb16f380e76610_lec9.pdf
+file_size: 162541
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
