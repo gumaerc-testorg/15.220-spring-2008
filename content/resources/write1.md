@@ -2,6 +2,7 @@
 content_type: resource
 description: Writing assignment.
 file: /courses/15-220-global-strategy-and-organization-spring-2008/4c25b8e2b5ead9fd1d309db4ebfc027f_write1.pdf
+file_size: 11681
 file_type: application/pdf
 learning_resource_types:
 - Assignments
