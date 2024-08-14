@@ -118,7 +118,7 @@ Building a global business
 Ghemawat. "Global Value Creation." Chapter 3.
 {{< tdclose >}}
 {{< tdopen >}}
-Lessard, Donald, and Cate Reavis. "[CEMEX: Globalization 'The CEMEX Way](https://mitsloan.mit.edu/LearningEdge/Lists/CaseMetaData/DispForm.aspx?ID=50&ContentTypeId=0x0100584F630B5892F343AD963AEEA2E2DC22)'." MIT Sloan School Case 09-039, March 5, 2009.
+Lessard, Donald, and Cate Reavis. "{{% resource_link "4775cee3-62d2-485a-8bf4-150e0133569d" "CEMEX: Globalization 'The CEMEX Way" %}}'." MIT Sloan School Case 09-039, March 5, 2009.
 {{< tdclose >}}
 
 {{< trclose >}}
