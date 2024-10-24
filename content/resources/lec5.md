@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on cross-border arbitrage and outsourcing.
-file: /courses/15-220-global-strategy-and-organization-spring-2008/74b9f601db5fd16990d1514b8d611e49_lec5.pdf
+file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/74b9f601db5fd16990d1514b8d611e49_lec5.pdf
 file_size: 197144
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout containing learning objectives and discussion questions on responding
   to strategic threats from late movers.
-file: /courses/15-220-global-strategy-and-organization-spring-2008/3e2a919ed7ac96c755fdd83da821f514_assn7.pdf
+file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/3e2a919ed7ac96c755fdd83da821f514_assn7.pdf
 file_size: 12310
 file_type: application/pdf
 learning_resource_types:
