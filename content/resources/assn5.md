@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout containing learning objectives and discussion questions on cross-border
   arbitrage and outsourcing.
-file: /courses/15-220-global-strategy-and-organization-spring-2008/2e3bf7e84cd2cf2e8a17fdaea93d1ff9_assn5.pdf
+file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/2e3bf7e84cd2cf2e8a17fdaea93d1ff9_assn5.pdf
 file_size: 13462
 file_type: application/pdf
 learning_resource_types:

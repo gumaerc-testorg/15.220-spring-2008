@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on global strategy and organization, and the changing
   global landscape.
-file: /courses/15-220-global-strategy-and-organization-spring-2008/99d2c955a7fabd03ac68888a865eee62_lec1.pdf
+file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/99d2c955a7fabd03ac68888a865eee62_lec1.pdf
 file_size: 110493
 file_type: application/pdf
 learning_resource_types:

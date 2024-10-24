@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on new markets, new entrants, and Responding to strategic
   threats from late movers.
-file: /courses/15-220-global-strategy-and-organization-spring-2008/2ff1b5a46ac67d4ed41f96952b0da8bc_lec7.pdf
+file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/2ff1b5a46ac67d4ed41f96952b0da8bc_lec7.pdf
 file_size: 167567
 file_type: application/pdf
 learning_resource_types:

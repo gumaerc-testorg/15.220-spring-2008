@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on building a global business model.
-file: /courses/15-220-global-strategy-and-organization-spring-2008/460f827cf2bf1f6f80c85636f3cf49e8_lec4.pdf
+file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/460f827cf2bf1f6f80c85636f3cf49e8_lec4.pdf
 file_size: 159422
 file_type: application/pdf
 learning_resource_types:

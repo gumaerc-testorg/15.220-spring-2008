@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout containing learning objectives and discussion questions on integrating
   global supply and marketing chains.
-file: /courses/15-220-global-strategy-and-organization-spring-2008/5a696d20407fa8b87e1ad6f9a586e9f1_assn10.pdf
+file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/5a696d20407fa8b87e1ad6f9a586e9f1_assn10.pdf
 file_size: 12632
 file_type: application/pdf
 learning_resource_types:
