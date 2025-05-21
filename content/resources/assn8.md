@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout containing learning objectives and discussion questions on managing
   integration and responsiveness.
-file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/cfc76ec1d270ab55d1b587f9637c267e_assn8.pdf
+file: /courses/15-220-global-strategy-and-organization-spring-2008/cfc76ec1d270ab55d1b587f9637c267e_assn8.pdf
 file_size: 16308
 file_type: application/pdf
 learning_resource_types:

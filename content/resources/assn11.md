@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout containing learning objectives and discussion questions on global
   leadership.
-file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/9a50b8d9f9f308a7c1a667edc757f92b_assn11.pdf
+file: /courses/15-220-global-strategy-and-organization-spring-2008/9a50b8d9f9f308a7c1a667edc757f92b_assn11.pdf
 file_size: 13182
 file_type: application/pdf
 learning_resource_types:

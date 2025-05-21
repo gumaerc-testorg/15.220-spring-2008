@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Writing assignment.
-file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/129780c665f35f2b6b5b004c53c78c3b_write2.pdf
+file: /courses/15-220-global-strategy-and-organization-spring-2008/129780c665f35f2b6b5b004c53c78c3b_write2.pdf
 file_size: 15620
 file_type: application/pdf
 learning_resource_types:

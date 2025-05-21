@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout containing learning objectives and discussion questions on expanding
   from new regions.
-file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/ba0ec893a9d438706ac5896b621ee6de_assn6.pdf
+file: /courses/15-220-global-strategy-and-organization-spring-2008/ba0ec893a9d438706ac5896b621ee6de_assn6.pdf
 file_size: 12636
 file_type: application/pdf
 learning_resource_types:

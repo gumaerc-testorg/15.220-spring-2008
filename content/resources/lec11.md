@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on global leadership.
-file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/2397107f569ad854dcbe9bf6e4f1e663_lec11.pdf
+file: /courses/15-220-global-strategy-and-organization-spring-2008/2397107f569ad854dcbe9bf6e4f1e663_lec11.pdf
 file_size: 241636
 file_type: application/pdf
 learning_resource_types:
