@@ -2,7 +2,7 @@
 content_type: resource
 description: Handout containing learning objectives and discussion questions on linking
   national and firm-level advantage.
-file: /courses/15-220-global-strategy-and-organization-spring-2008/092ba2cb877f46f40970bb77dc0eaaab_assn2.pdf
+file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/092ba2cb877f46f40970bb77dc0eaaab_assn2.pdf
 file_size: 12847
 file_type: application/pdf
 learning_resource_types:
