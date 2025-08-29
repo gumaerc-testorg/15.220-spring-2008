@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on integrating global supply and marketing chains.
-file: /ol-ocw-studio-app/courses/15-220-global-strategy-and-organization-spring-2008/747aeb277d86d04a1e13dc43531680e7_lec10.pdf
+file: /courses/15-220-global-strategy-and-organization-spring-2008/747aeb277d86d04a1e13dc43531680e7_lec10.pdf
 file_size: 151225
 file_type: application/pdf
 learning_resource_types:
